@@ -4,7 +4,11 @@ Aplicar de manera practica los conociminetos de Git y GitHub, para controlar la 
 
 ## Estructura básica de carpetas
 preprocesamiento-ciencia-datos/
+
 ├── data/               # Almacenamiento de los datasets a procesar.
+
 ├── src/                # Contiene los scripts de Python (ej. preprocesamiento.py).
+
 ├── .gitignore          # Define los archivos y carpetas que Git debe ignorar.
+
 └── README.md           # Información general y descripción del proyecto.
